@@ -5,7 +5,7 @@ _**Project**_
 
 Projet Educative
 
-[PUBLISED](https://zazeli.github.io/Yogamood/#)
+[PUBLISED](https://zazeli.github.io/yoga-mood)
 
 Design: _Yogamood_
 
